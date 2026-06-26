@@ -1,0 +1,51 @@
+body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        text-align: center;
+        margin-top: 50px;
+}
+
+h1 {
+    color: #4b950b; 
+    text-align: center;
+    margin-top: 40px;
+}
+
+h2 {
+    color: #306402; 
+    text-align: center;
+    margin-top: 40px;
+}
+
+h2 {
+    color: #306402; 
+    text-align: center;
+    margin-top: 40px;
+}
+
+.teks-menyala {
+    color: #ffffff;
+    text-shadow: 0 0 4px #ff4500, 0 0 10px #ff4500, 0 0 20px #ff8c00;
+}
+
+.teks-menyala2 {
+    color: #ffffff;
+    text-shadow: 0 0 4px #c00889, 0 0 10px #ff0ef3, 0 0 20px #fb27ff;
+}
+
+p {
+    text-align: justify;
+    max-width: 700px;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 20px auto;
+    text-align: justify;
+}
+
+img {
+    display: block;
+    max-width: 600px;   
+    width: 100%;        
+    height: auto;       
+    margin: 30px auto; 
+}
